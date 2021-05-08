@@ -14,7 +14,9 @@ The data for basis generation is in 'acq_params.mat'.
 'Generated_bases.mat' is the generated bases.
 
 This example presents a CPU implementation of the reconstruction based on BART toolbox: https://mrirecon.github.io/bart
+
 Another example Matlab implementation without using BART can be found at https://github.com/zijingd/VFA-EPTI
+
 Further acceleration can be achieved by GPU.
 
 Please contact us if you have any questions about our work.
