@@ -2,7 +2,7 @@
 Example Matlab codes and data for 3D-EPTI reconstruction using low-rank subspace method.
 
 Related works:
- 1) "Ultrafast high-resolution multi-parametric brain MRI using 3D Echo Planar Time-resolved Imaging",Fuyixue Wang and Zijing Dong et al., 2021.
+ 1) "3D Echo Planar Time-resolved Imaging (3D-EPTI) for ultrafast multi-parametric quantitative MRI",Fuyixue Wang and Zijing Dong et al., bioRxiv 2021.
  2) "Echo planar time-resolved imaging (EPTI)", Fuyixue Wang et al., MRM, 2019.
  3) "EPTI with Subspace Reconstruction and Optimized Spatiotemporal Encoding", Zijing Dong et al., MRM, 2020.
  4) "T2 shuffling: Sharp, multicontrast, volumetric fast spin-echo imaging", Jonathan Tamir et al., MRM, 2017.
