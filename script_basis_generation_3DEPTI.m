@@ -1,6 +1,6 @@
 % Example script of the basis generation for 3D-EPTI subspace reconstruction
 % Related to the following works
-% 1) "Ultrafast high-resolution multi-parametric brain MRI using 3D Echo Planar Time-resolved Imaging",Fuyixue Wang and Zijing Dong et al., 2021.
+% 1) "3D Echo Planar Time-resolved Imaging (3D-EPTI) for ultrafast multi-parametric quantitative MRI",Fuyixue Wang and Zijing Dong et al., bioRxiv 2021.
 % 2) "Echo planar time-resolved imaging (EPTI)", Fuyixue Wang et al.,MRM,2019
 % 3) "EPTI with Subspace Reconstruction and Optimized Spatiotemporal Encoding", Zijing Dong et al.2020
 % Fuyixue Wang <fwang18@mgh.harvard.edu>, Zijing Dong <zijingd@mit.edu> Feb/2021
